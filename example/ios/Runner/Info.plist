@@ -27,7 +27,7 @@
 			<string>com.hlsolutions.hoishipper</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>hlsolutions</string>
+				<string>thoidai</string>
 			</array>
 		</dict>
 	</array>
